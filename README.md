@@ -1,6 +1,6 @@
 # The Best Resources for Dungeon Masters
 
-A curated collection of my favourite resources for Dungeon Masters and Game Masters. Items on this list have to pass my personal bar for quality. It is short by design. If you want a more comprehensive list of resources, check out [D&D compendium](https://www.dnd-compendium.com/) .
+A curated collection of my favourite resources for Dungeon Masters and Game Masters. Items on this list have to pass my personal bar for quality. It is short by design. If you want a more comprehensive list of resources, check out [D&D compendium](https://www.dnd-compendium.com/).
 
 ## Random generators
 
