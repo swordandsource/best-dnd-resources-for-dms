@@ -21,6 +21,7 @@ Random generators help inspire you and build worlds quickly on the fly.
 ## Learning how to Dungeon Master
 
 - [The Quickstart Guide to Game Mastering](https://howtogm.guide) - This is a complete guide focused on helping new Dungeon Masters run their first game. It even includes a free adventure that is custom designed to work with the guide. If you have always wanted to try DMing but felt overwhelmed with too much information, this guide is the solution.
+- [Matt Colville, Running the Game series](https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_) - Matt Colville's "Running the Game" series on YouTube is one of the greatest ways to learn to DM. His style is really engaging and he covers every topic you can think of in approachable way. I find myself often agreeing with his advice.
 - [Roleplaying Tips](https://www.roleplayingtips.com/) - A wonderful collection of tips for Game Masters of all experience levels. This site is a wealth of information for improving your skills.
 
 ## Worldbuilding apps & campaign managers
