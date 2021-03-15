@@ -22,3 +22,7 @@ Random generators help inspire you and build worlds quickly on the fly.
 
 - [The Quickstart Guide to Game Mastering](https://howtogm.guide) - This is a complete guide focused on helping new Dungeon Masters run their first game. It even includes a free adventure that is custom designed to work with the guide. If you have always wanted to try DMing but felt overwhelmed with too much information, this guide is the solution.
 - [Roleplaying Tips](https://www.roleplayingtips.com/) - A wonderful collection of tips for Game Masters of all experience levels. This site is a wealth of information for improving your skills.
+
+## Worldbuilding apps & campaign managers
+
+- [LegendKeeper](https://www.legendkeeper.com/) - LegendKeeper is still in beta but is positioned to become the best app for worldbuilders. The attention to design detail and performance is unmatched.
