@@ -27,3 +27,7 @@ Random generators help inspire you and build worlds quickly on the fly.
 ## Worldbuilding apps & campaign managers
 
 - [LegendKeeper](https://www.legendkeeper.com/) - LegendKeeper is still in beta but is positioned to become the best app for worldbuilders. The attention to design detail and performance is unmatched.
+
+## Find a D&D game
+
+- [StartPlaying](https://startplaying.games/) - A platform for finding roleplaying games run by professional Game Masters. I've used it a few times as a player and always enjoyed it. As a Game Master, it could be a great place to get your name out there and make some extra cash.
